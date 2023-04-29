@@ -1,2 +1,3 @@
 # python_project_1
 The project is a web application that predicts the likelihood of a person having diabetes based on certain factors such as number of pregnancies, glucose level, blood pressure, skin thickness, insulin level, BMI, diabetes pedigree function, and age. The user enters the required information through a form on the web page, and upon submission, the Flask server uses a trained machine learning model to make a prediction. The prediction is then displayed on the web page for the user to see. The project consists of two files, index.html which contains the web page code, and app.py which contains the Flask server code and the trained model's implementation.
+### you can visit my website on : rudra141.pythonanywhere.com
